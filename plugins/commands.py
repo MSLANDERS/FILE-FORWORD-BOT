@@ -25,7 +25,7 @@ main_buttons = [[
     InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/mslanders')
 ],[
     InlineKeyboardButton('🆘 ʜᴇʟᴘ', callback_data='help'),
-    InlineKeyboardButton('⚙ ᴀʙᴏᴜᴛ', callback_data='about')
+    InlineKeyboardButton('👨‍💻 ᴀʙᴏᴜᴛ', callback_data='about')
 ],[
     InlineKeyboardButton('⚙ sᴇᴛᴛɪɴɢs', callback_data='settings#main')
 ]]
